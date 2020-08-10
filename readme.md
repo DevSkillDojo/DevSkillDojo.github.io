@@ -1,6 +1,8 @@
-# Foam
+# DevSkillDojo
 
 👋 Welcome to your new Foam Workspace!
+
+Hello World
 
 ## Getting started
 
