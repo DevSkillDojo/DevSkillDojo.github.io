@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Using Foam | DevSkillDojo.github.io</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Using Foam" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="DevSkillDojo Skills Ontology, built using FOAM" />
+<meta property="og:description" content="DevSkillDojo Skills Ontology, built using FOAM" />
+<link rel="canonical" href="http://localhost:4000/using-foam.html" />
+<meta property="og:url" content="http://localhost:4000/using-foam.html" />
+<meta property="og:site_name" content="DevSkillDojo.github.io" />
+<script type="application/ld+json">
+{"@type":"WebPage","headline":"Using Foam","description":"DevSkillDojo Skills Ontology, built using FOAM","url":"http://localhost:4000/using-foam.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=dbf7129fcdbc84d5b13e7706d5ef3554522f262a">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">DevSkillDojo.github.io</a></h1>
+      
+
+      <h1 id="using-foam">Using Foam</h1>
+
+<h1 id="generating-the-site">Generating the site</h1>
+
+<h2 id="local-generation">Local Generation</h2>
+<p>Foam is GitHub-pages ready as-is. However, you will likely want to build a local copy. If so, simply install the relevant pages for generating GitHub pages locally. Find the details here: <a href="https://docs.github.com/en/enterprise/2.14/user/articles/setting-up-your-github-pages-site-locally-with-jekyll">Setting up your GitHub Pages locally with Jekyll</a></p>
+
+<p>In short:</p>
+<ul>
+  <li>Ensure ruby is installed</li>
+  <li>Install Jekyll and other depedencies with: “bundle install” from the root of the repo</li>
+  <li>Server the local site with “bundle exec jekyll serve” from the root of the repo</li>
+</ul>
+
+<h2 id="github-pages">GitHub Pages</h2>
+<p>The GitHub repo is configured to build automatically from the master branch. To to publish changes, just merge a PR</p>
+
+<h1 id="setting-up">Setting up</h1>
+
+<p>This documentation assumes that you have a GitHub account and have <a href="https://code.visualstudio.com/">Visual Studio Code</a> installed on your Linux/MacOS/Windows machine.</p>
+
+<ol>
+  <li>If you haven’t yet, browse over to the main <a href="https://foambubble.github.io/foam">Foam documentation workspace</a> to get an idea of what Foam is and how to use it.</li>
+  <li>Press “Use this template” button at <a href="https://github.com/foambubble/foam-template/generate">foam-template</a> (that’s this repository!) to fork it to your own GitHub account. If you want to keep your thoughts to yourself, remember to set the repository private.</li>
+  <li>
+    <p><a href="https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository">Clone the repository to your local machine</a> and open it in VS Code.</p>
+
+    <p><em>Open the repository as a folder using the <code class="language-plaintext highlighter-rouge">File &gt; Open...</code> menu item. In VS Code, “open workspace” refers to <a href="https://code.visualstudio.com/docs/editor/multi-root-workspaces">multi-root workspaces</a>.</em></p>
+  </li>
+  <li>When prompted to install recommended extensions, click <strong>Install all</strong> (or <strong>Show Recommendations</strong> if you want to review and install them one by one)</li>
+</ol>
+
+<p>After setting up the repository, open <a href=".vscode/settings.json">.vscode/settings.json</a> and edit, add or remove any settings you’d like for your Foam workspace.</p>
+
+<p>To learn more about how to use <strong>Foam</strong>, read the <a href="https://foambubble.github.io/foam/recipes">Recipes</a> bubbles of the Foam documentation workspace.</p>
+
+<h2 id="note-on-wiki-links">Note on <code class="language-plaintext highlighter-rouge">[[wiki-links]]</code></h2>
+
+<p>⚠️ Until <a href="https://github.com/foambubble/foam/issues/16">foambubble/foam#16</a> is resolved, <code class="language-plaintext highlighter-rouge">[[wiki-links]]</code> links (like the links above) won’t work in the GitHub Markdown preview (i.e. this Readme on github.com).</p>
+
+<p>They should work as expected in VS Code, and in rendered GitHub Pages.</p>
+
+<p>If GitHub preview (or general 100% support with all Markdown tools) is a requirement, for the time being you can use the standard <code class="language-plaintext highlighter-rouge">[description](page.md)</code> syntax.</p>
+
+<h1 id="foam-recipes">Foam Recipes</h1>
+<p><em>For up-to-date tips, see <a href="https://foambubble.github.io/foam/recipes">Foam Recipes</a>.</em></p>
+
+
+
+<script type="text/javascript">
+  // Hack: Replace page-link with "Page Title"
+  document.querySelectorAll(".markdown-body a[title]").forEach((a) => {
+    a.innerText = a.title;
+  });
+</script>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
