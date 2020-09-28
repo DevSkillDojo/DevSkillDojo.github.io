@@ -1,7 +1,7 @@
-# Skill Definition Template
+# Gatsby
 
 ## Identifcation:
-Short name: TODO
+Short name: Gatsby
 Fully Qualified Name: TODO
 Perspective: TODO
 
@@ -10,8 +10,10 @@ Add a very short introduction to the skill here. Typically pulled from Wikipedia
 
 ## General References
 - Wikipedia: TODO
-- Official Site: TODO
+- Official Site: https://www.gatsbyjs.com/
 - Industry Bodies: TODO
+- GitHub: https://github.com/gatsbyjs/gatsby
+- NPM: https://www.npmjs.com/package/gatsby
 
 ## Available certifications
  - TODO

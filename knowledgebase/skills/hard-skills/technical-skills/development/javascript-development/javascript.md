@@ -1,4 +1,4 @@
-# Skill Definition Template
+# JavaScript
 
 ## Identifcation:
 Short name: TODO
@@ -55,7 +55,40 @@ Some skills represent a large body of knowledge and is broken down into sub-skil
 ## Learning Concepts
 A list of concepts to be mastered. Often the number of concepts that have been mastered is a good indicator of proficiency level
 
-- TODO
+- ES5
+  - [[todo]]
+  - JavaScript Objects
+  - Arrays
+  - Local Storage
+  - Session Storage
+  - Callback methods
+  - ‘ vs “ vs `
+  - DOM Document Object
+  - DOM Element Object
+  - DOM Attribute Object
+  - DOM Event Object
+  - DOM Location Object
+  - DOM Navigator Object
+  - DOM Screen Object
+  - DOM Window Object
+
+- ES6
+  - [[todo]]
+  - let and const
+  - classes
+  - Modules
+  - constructor
+  - this
+  - Arrow Functions
+  - forEach()
+  - map()
+  - async functions
+  - service worker
+  - spread operator
+  - array destructuring
+  - object destructuring
+  - Promise
+  - Object.assign()
 
 ## Learning Resources
 
@@ -78,6 +111,8 @@ The best learning content for X is likely to be found from the following content
  - TODO
 
 ### All Learning Resources
+
+- https://javascript.info/
 
 | Source | Title | Resource Type | Applicable level | Rating | Other skills included |
 | -------| ----- | ------------- |:----------------:|:------:| --------------------- |
