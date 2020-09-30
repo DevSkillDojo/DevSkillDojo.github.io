@@ -1,8 +1,7 @@
-# Cascading Style Sheets 
-
+# Cascading Style Sheets (CSS)
 
 ## Identifcation:
-Short name: TODO
+Short name: CSS
 Fully Qualified Name: TODO
 Perspective: TODO
 

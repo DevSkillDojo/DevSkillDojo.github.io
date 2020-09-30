@@ -1,7 +1,7 @@
 # JavaScript
 
-## Identifcation:
-Short name: TODO
+## Identification:
+Short name: JavaScript
 Fully Qualified Name: TODO
 Perspective: TODO
 
@@ -9,7 +9,7 @@ Perspective: TODO
 Add a very short introduction to the skill here. Typically pulled from Wikipedia or from the official site where appropriate
 
 ## General References
-- Wikipedia: TODO
+- Wikipedia: https://en.wikipedia.org/wiki/JavaScript
 - Official Site: TODO
 - Industry Bodies: TODO
 
@@ -112,7 +112,10 @@ The best learning content for X is likely to be found from the following content
 
 ### All Learning Resources
 
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://www.w3schools.com/js/
 - https://javascript.info/
+- https://www.javascript.com/
 
 | Source | Title | Resource Type | Applicable level | Rating | Other skills included |
 | -------| ----- | ------------- |:----------------:|:------:| --------------------- |

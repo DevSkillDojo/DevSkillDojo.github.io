@@ -3,15 +3,14 @@
 ## Identifcation:
 Short name: Gatsby
 Fully Qualified Name: TODO
-Perspective: TODO
+Perspective: Hard Technical Skills
 
 ## Introduction
-Add a very short introduction to the skill here. Typically pulled from Wikipedia or from the official site where appropriate
+Gatsby is a React-based open source framework for creating websites and apps.
 
 ## General References
 - Wikipedia: TODO
 - Official Site: https://www.gatsbyjs.com/
-- Industry Bodies: TODO
 - GitHub: https://github.com/gatsbyjs/gatsby
 - NPM: https://www.npmjs.com/package/gatsby
 
@@ -30,24 +29,34 @@ Before learning this skill, you should have at least some level of proficiency i
 dependent skills and they are broken into weak and strong dependencies.
 
 ### Hard Prerequisites
-Before you begin learning X, it is essential that you already have the following skills. For each of the prerequisites, a required proficiency level is defined
+Before you begin learning Gatsby, it is essential that you already have the following skills. For each of the prerequisites, a required proficiency level is defined
 
 - TODO
+- [[html]]
+- [[css]]
+- [[javascript]]
+- [[nodejs]]
+- [[npm]]
+- [[react]]
 
 ### Soft Prerequisites
-To become proficient in X, you will also require proficiency in the following skills. However, you can learn these in parallel (often it is the best way to go)
+To become proficient in Gatsby, you will also require proficiency in the following skills. However, you can learn these in parallel (often it is the best way to go)
 
  - TODO
+ - [[netlify]]
+ - [[markdown]]
 
 ### Complementary skills
-Like most skills, X is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using X in a real-world setting.
+Like most skills, Gatsby is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using X in a real-world setting.
 
 - TODO
+- [[git]]
 
 ### Alternative skills
 There are many ways to skin a cat (or so I've heard). These alternative skills will allow you to achieve the same outcomes as with X. To become a true master at X, it would be wise to understand the alternatives as well.
 
 - TODO
+- [[nextjs]]
 
 ### Sub Skills
 Some skills represent a large body of knowledge and is broken down into sub-skills that can be mastered individually

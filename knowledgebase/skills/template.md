@@ -1,6 +1,6 @@
 # Skill Definition Template
 
-## Identifcation:
+## Identification:
 Short name: TODO
 Fully Qualified Name: TODO
 Perspective: TODO

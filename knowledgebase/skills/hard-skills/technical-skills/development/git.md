@@ -1,16 +1,17 @@
-# Hypertext Markup Languages (HTML)
+# Git
 
-## Identifcation:
-Short name: HTML
+## Identification:
+Short name: Git
 Fully Qualified Name: TODO
-Perspective: Hard Technical Skills
+Perspective: TODO
 
 ## Introduction
-Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 
 ## General References
-- Wikipedia: https://en.wikipedia.org/wiki/HTML
-- Industry Bodies: https://html.spec.whatwg.org/
+- Wikipedia: TODO
+- Official Site: https://git-scm.com/
+- Industry Bodies: TODO
 
 ## Available certifications
  - TODO
@@ -27,14 +28,15 @@ Before learning this skill, you should have at least some level of proficiency i
 dependent skills and they are broken into weak and strong dependencies.
 
 ### Hard Prerequisites
-HTML is the starting point for web development, there are no hard prerequisites
+Before you begin learning X, it is essential that you already have the following skills. For each of the prerequisites, a required proficiency level is defined
+
+- TODO
 
 ### Soft Prerequisites
 To become proficient in X, you will also require proficiency in the following skills. However, you can learn these in parallel (often it is the best way to go)
 
- - [[css]]
- - JavaScript
  - TODO
+ - [[version-control]]
 
 ### Complementary skills
 Like most skills, X is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using X in a real-world setting.
@@ -42,7 +44,11 @@ Like most skills, X is not used in isolation, but with other skills in your tool
 - TODO
 
 ### Alternative skills
-Not applicable - There are no "alternatives" to HTML
+There are many ways to skin a cat (or so I've heard). These alternative skills will allow you to achieve the same outcomes as with X. To become a true master at X, it would be wise to understand the alternatives as well.
+
+- TODO
+- [[cvs]]
+- [[subversion]]
 
 ### Sub Skills
 Some skills represent a large body of knowledge and is broken down into sub-skills that can be mastered individually
@@ -53,15 +59,6 @@ Some skills represent a large body of knowledge and is broken down into sub-skil
 A list of concepts to be mastered. Often the number of concepts that have been mastered is a good indicator of proficiency level
 
 - TODO
-- Comments
-- Inline vs Block Elements
-- Forms
-- Form Elements
-- Form Submission
-- manifest.json
-- favicon
-- viewport metatag
-- charset metatag
 
 ## Learning Resources
 
@@ -89,15 +86,10 @@ The best learning content for X is likely to be found from the following content
 | -------| ----- | ------------- |:----------------:|:------:| --------------------- |
 | TODO   | TODO  | TODO          | TODO             | TODO   | TODO                  |
 
-- https://html.com/
-- https://www.w3schools.com/html/
-- https://developer.mozilla.org/en-US/docs/Web/HTML
-
 ## Proficiency Assessments
 In many cases, formal assessments exists that test proficiency in this skill. If they exists, they will be listed here
 
  - TODO
- - W3Schools cert
 
 ## Social Media
 ### Twitter hashtags
