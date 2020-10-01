@@ -35,6 +35,7 @@ Before you begin learning Gatsby, it is essential that you already have the foll
 - [[html]]
 - [[css]]
 - [[javascript]]
+- [[json]]
 - [[nodejs]]
 - [[npm]]
 - [[react]]
@@ -43,17 +44,40 @@ Before you begin learning Gatsby, it is essential that you already have the foll
 To become proficient in Gatsby, you will also require proficiency in the following skills. However, you can learn these in parallel (often it is the best way to go)
 
  - TODO
+ - [[graphql]]
+ - [[graphiql-ide]]
+ - [[webpack]]
+ - [[babel]]
  - [[netlify]]
  - [[markdown]]
+ - [[react-helmet]]
+ - [[react]] / PropTypes
 
 ### Complementary skills
-Like most skills, Gatsby is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using X in a real-world setting.
+Like most skills, Gatsby is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using Gatsby in a real-world setting.
 
 - TODO
 - [[git]]
+- [[github]]
+- [[typescript]]
+- [[prettier]]
+- [[visual-studio-code]]
+- [[command-line-interface]]
+- [[reach-router]]
+- [[remark]]
+- [[moment]]
+- [[redux]]
+- [[chrome-dev-tools]]
+- [[firefox-dev-tools]]
+- [[javascript]] / Object Destructuring
+- [[javascript]] / Array.map
+- [[javascript]] / Array.forEach
+- [[javascript]] / Promise
+- [[javascript]] / Async/Await
+- [[nodejs]] / path
 
 ### Alternative skills
-There are many ways to skin a cat (or so I've heard). These alternative skills will allow you to achieve the same outcomes as with X. To become a true master at X, it would be wise to understand the alternatives as well.
+There are many ways to skin a cat (or so I've heard). These alternative skills will allow you to achieve similar outcomes as with Gatsby. To become a true master at Gatsby, it would be wise to understand the alternatives as well.
 
 - TODO
 - [[nextjs]]
@@ -67,6 +91,23 @@ Some skills represent a large body of knowledge and is broken down into sub-skil
 A list of concepts to be mastered. Often the number of concepts that have been mastered is a good indicator of proficiency level
 
 - TODO
+- Gatsby CLI
+- Gatsby Starters
+- Pages
+- Components
+- Page Query (https://www.gatsbyjs.com/docs/recipes/querying-data/#querying-data-with-a-page-query)
+- OOTG Gatsby Component: StaticQuery
+- OOTB Gatsby Component: useStaticQuery
+- OOTB Gatsby Component: graphql
+- Gatsby Source Plugins
+- OOTB Gatsby Source Plugin: gatsby-source-filesystem
+- Gatsby Transformer Plugins
+- OOTB Gatsby Transformer Plugin: gatsby-transformer-remark
+- OOTB Gatsby Transformer Plugin: gatsby-transformer-sharp
+- OOTB Gatsby Transformer Plugin: gatsby-transformer-yaml
+- OOTB Gatsby Transformer Plugin: gatsby-transformer-json
+- OOTB Gatsby Transformer Plugin: gatsby-transformer-csv
+- Slugs
 
 ## Learning Resources
 

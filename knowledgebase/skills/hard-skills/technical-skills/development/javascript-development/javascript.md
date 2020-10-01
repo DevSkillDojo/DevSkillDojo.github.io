@@ -2,16 +2,16 @@
 
 ## Identification:
 Short name: JavaScript
-Fully Qualified Name: TODO
-Perspective: TODO
+Fully Qualified Name: Development : JavaScript Development : JavaScript
+Perspective: Hard Skills (Technical)
 
 ## Introduction
-Add a very short introduction to the skill here. Typically pulled from Wikipedia or from the official site where appropriate
+JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat.
 
 ## General References
 - Wikipedia: https://en.wikipedia.org/wiki/JavaScript
-- Official Site: TODO
-- Industry Bodies: TODO
+- Official Site: https://www.ecma-international.org/ecma-262/
+- Industry Bodies: https://www.ecma-international.org/default.htm
 
 ## Available certifications
  - TODO
@@ -28,22 +28,22 @@ Before learning this skill, you should have at least some level of proficiency i
 dependent skills and they are broken into weak and strong dependencies.
 
 ### Hard Prerequisites
-Before you begin learning X, it is essential that you already have the following skills. For each of the prerequisites, a required proficiency level is defined
+Before you begin learning JavaScript, it is essential that you already have the following skills. For each of the prerequisites, a required proficiency level is defined
 
 - TODO
 
 ### Soft Prerequisites
-To become proficient in X, you will also require proficiency in the following skills. However, you can learn these in parallel (often it is the best way to go)
+To become proficient in JavaScript, you will also require proficiency in the following skills. However, you can learn these in parallel (often it is the best way to go)
 
  - TODO
 
 ### Complementary skills
-Like most skills, X is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using X in a real-world setting.
+Like most skills, JavaScript is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using JavaScript in a real-world setting.
 
 - TODO
 
 ### Alternative skills
-There are many ways to skin a cat (or so I've heard). These alternative skills will allow you to achieve the same outcomes as with X. To become a true master at X, it would be wise to understand the alternatives as well.
+There are many ways to skin a cat (or so I've heard). These alternative skills will allow you to achieve the same outcomes as with JavaScript. To become a true master at JavaScript, it would be wise to understand the alternatives as well.
 
 - TODO
 
@@ -76,7 +76,7 @@ A list of concepts to be mastered. Often the number of concepts that have been m
   - [[todo]]
   - let and const
   - classes
-  - Modules
+  - Modules (https://v8.dev/features/modules)
   - constructor
   - this
   - Arrow Functions
@@ -85,8 +85,8 @@ A list of concepts to be mastered. Often the number of concepts that have been m
   - async functions
   - service worker
   - spread operator
-  - array destructuring
-  - object destructuring
+  - Array Destructuring (https://dev.to/sarah_chima/destructuring-assignment---arrays-16f)
+  - Object Destructuring (https://dev.to/sarah_chima/object-destructuring-in-es6-3fm)
   - Promise
   - Object.assign()
 

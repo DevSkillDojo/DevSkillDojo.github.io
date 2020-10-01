@@ -1,16 +1,15 @@
-# Git
+# Reach Router
 
 ## Identification:
-Short name: Git
+Short name: TODO
 Fully Qualified Name: TODO
 Perspective: TODO
 
 ## Introduction
-Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+Add a very short introduction to the skill here. Typically pulled from Wikipedia or from the official site where appropriate
 
 ## General References
-- Wikipedia: TODO
-- Official Site: https://git-scm.com/
+- Official Site: https://reach.tech/router/
 - Industry Bodies: TODO
 
 ## Available certifications
@@ -36,7 +35,6 @@ Before you begin learning X, it is essential that you already have the following
 To become proficient in X, you will also require proficiency in the following skills. However, you can learn these in parallel (often it is the best way to go)
 
  - TODO
- - [[version-control]]
 
 ### Complementary skills
 Like most skills, X is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using X in a real-world setting.
@@ -47,8 +45,6 @@ Like most skills, X is not used in isolation, but with other skills in your tool
 There are many ways to skin a cat (or so I've heard). These alternative skills will allow you to achieve the same outcomes as with X. To become a true master at X, it would be wise to understand the alternatives as well.
 
 - TODO
-- [[cvs]]
-- [[subversion]]
 
 ### Sub Skills
 Some skills represent a large body of knowledge and is broken down into sub-skills that can be mastered individually

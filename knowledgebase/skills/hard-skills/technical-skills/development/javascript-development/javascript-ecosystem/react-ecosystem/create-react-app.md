@@ -78,6 +78,8 @@ The best learning content for X is likely to be found from the following content
 
 ### All Learning Resources
 
+- https://create-react-app.dev/docs
+
 | Source | Title | Resource Type | Applicable level | Rating | Other skills included |
 | -------| ----- | ------------- |:----------------:|:------:| --------------------- |
 | TODO   | TODO  | TODO          | TODO             | TODO   | TODO                  |

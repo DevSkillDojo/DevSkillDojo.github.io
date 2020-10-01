@@ -1,14 +1,12 @@
 # React
 
-# Skill Definition Template
-
 ## Identification:
 Short name: React
-Fully Qualified Name: TODO
-Perspective: TODO
+Fully Qualified Name: Development : JavaScript Development : JS Ecosystem : React
+Perspective: Hard Skills (Technical)
 
 ## Introduction
-React (also known as React.js or ReactJS) is an open-source, front end, JavaScript library[3] for building user interfaces or UI components. 
+React (also known as React.js or ReactJS) is an open-source, front end, JavaScript library for building user interfaces or UI components. 
 
 ## General References
 - Wikipedia: https://en.wikipedia.org/wiki/React_(web_framework)
@@ -49,9 +47,14 @@ To become proficient in React, you will also require proficiency in the followin
  - HTML DOM
 
 ### Complementary skills
-Like most skills, X is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using X in a real-world setting.
+Like most skills, React is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using React in a real-world setting. This is especially important when architecting a solution.
 
 - TODO
+- [[redux]]
+- [[react-router]]
+- [[formik]]
+- [[axios]]
+- Moment library
 
 ### Alternative skills
 There are many ways to skin a cat (or so I've heard). These alternative skills will allow you to achieve the same outcomes as with X. To become a true master at X, it would be wise to understand the alternatives as well.
@@ -67,6 +70,27 @@ Some skills represent a large body of knowledge and is broken down into sub-skil
 A list of concepts to be mastered. Often the number of concepts that have been mastered is a good indicator of proficiency level
 
 - TODO
+- Declarative Component Model
+- JSX
+- Rendering Elements
+- Functional Components (https://alligator.io/react/functional-components/)
+- Class Components (https://reactjs.org/docs/react-component.html)
+  - Component Constructors (https://alligator.io/react/constructors-with-react-components/)
+  - Method binding
+  - Class Components local state
+- Export and Import Component Class
+- Export and Import Component Instance
+- Rendering Components
+- JSX Variables
+- Props
+- Link Form fields to local state
+- Redirect (using this.props.history.push())
+- Component Lifecycle
+- React Fragments
+- Higher Order Components (HOC)
+- Hooks
+- PropTypes (https://reactjs.org/docs/typechecking-with-proptypes.html)
+- Render Props (https://reactjs.org/docs/render-props.html)
 
 ## Learning Resources
 
