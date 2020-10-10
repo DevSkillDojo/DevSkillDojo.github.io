@@ -1,16 +1,16 @@
-# Bootstrap
+# Contentful
 
 ## Identification:
-Short name: Bootstrap
+Short name: Contentful
 Fully Qualified Name: TODO
 Perspective: TODO
 
 ## Introduction
-Bootstrap is styling framework for web development. It is defined as a powerful toolkit - a collection of HTML, CSS, and JavaScript tools for creating and building web pages and web applications.
+Add a very short introduction to the skill here. Typically pulled from Wikipedia or from the official site where appropriate
 
 ## General References
 - Wikipedia: TODO
-- Official Site: https://getbootstrap.com/
+- Official Site: https://www.contentful.com/
 
 ## Available certifications
  - TODO
@@ -96,20 +96,3 @@ In many cases, formal assessments exists that test proficiency in this skill. If
 - TODO
 
 
-
-
-## Concepts
-
- - 12 Column Layout
- - Container
- - Row
- - Col
- - Display
- - Button
- - Lead
- - Card
- - Navbar
- - Carousel
- - Jumbutron
-
-## References

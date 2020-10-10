@@ -1,16 +1,16 @@
-# Bootstrap
+# The Twelve-Factor App
 
 ## Identification:
-Short name: Bootstrap
+Short name: The Twelve Factor App
 Fully Qualified Name: TODO
 Perspective: TODO
 
 ## Introduction
-Bootstrap is styling framework for web development. It is defined as a powerful toolkit - a collection of HTML, CSS, and JavaScript tools for creating and building web pages and web applications.
+The Twelve-Factor App methodology is a methodology for building software-as-a-service applications. These best practices are designed to enable applications to be built with portability and resilience when deployed to the web.
 
 ## General References
-- Wikipedia: TODO
-- Official Site: https://getbootstrap.com/
+- Wikipedia: https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology
+- Official Site: https://12factor.net/
 
 ## Available certifications
  - TODO
@@ -96,20 +96,3 @@ In many cases, formal assessments exists that test proficiency in this skill. If
 - TODO
 
 
-
-
-## Concepts
-
- - 12 Column Layout
- - Container
- - Row
- - Col
- - Display
- - Button
- - Lead
- - Card
- - Navbar
- - Carousel
- - Jumbutron
-
-## References

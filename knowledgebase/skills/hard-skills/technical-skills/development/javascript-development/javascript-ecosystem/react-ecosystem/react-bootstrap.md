@@ -1,16 +1,16 @@
-# Bootstrap
+# React-Bootstrap
 
 ## Identification:
-Short name: Bootstrap
+Short name: React-Bootstrap
 Fully Qualified Name: TODO
 Perspective: TODO
 
 ## Introduction
-Bootstrap is styling framework for web development. It is defined as a powerful toolkit - a collection of HTML, CSS, and JavaScript tools for creating and building web pages and web applications.
+React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component
 
 ## General References
-- Wikipedia: TODO
-- Official Site: https://getbootstrap.com/
+- Official Site: https://react-bootstrap.github.io/
+
 
 ## Available certifications
  - TODO
@@ -29,7 +29,7 @@ dependent skills and they are broken into weak and strong dependencies.
 ### Hard Prerequisites
 Before you begin learning X, it is essential that you already have the following skills. For each of the prerequisites, a required proficiency level is defined
 
-- TODO
+- [[bootstrap]]
 
 ### Soft Prerequisites
 To become proficient in X, you will also require proficiency in the following skills. However, you can learn these in parallel (often it is the best way to go)
@@ -96,20 +96,3 @@ In many cases, formal assessments exists that test proficiency in this skill. If
 - TODO
 
 
-
-
-## Concepts
-
- - 12 Column Layout
- - Container
- - Row
- - Col
- - Display
- - Button
- - Lead
- - Card
- - Navbar
- - Carousel
- - Jumbutron
-
-## References

@@ -66,15 +66,21 @@ Like most skills, Gatsby is not used in isolation, but with other skills in your
 - [[reach-router]]
 - [[remark]]
 - [[moment]]
+- [[sharp]]
+- [[dotenv]]
 - [[redux]]
 - [[chrome-dev-tools]]
 - [[firefox-dev-tools]]
 - [[javascript]] / Object Destructuring
+- [[javascript]] / Spread Syntax
 - [[javascript]] / Array.map
 - [[javascript]] / Array.forEach
+- [[javascript]] / Array.from
 - [[javascript]] / Promise
 - [[javascript]] / Async/Await
 - [[nodejs]] / path
+- [[contentful]]
+- [[mdx]]
 
 ### Alternative skills
 There are many ways to skin a cat (or so I've heard). These alternative skills will allow you to achieve similar outcomes as with Gatsby. To become a true master at Gatsby, it would be wise to understand the alternatives as well.
@@ -95,19 +101,25 @@ A list of concepts to be mastered. Often the number of concepts that have been m
 - Gatsby Starters
 - Pages
 - Components
-- Page Query (https://www.gatsbyjs.com/docs/recipes/querying-data/#querying-data-with-a-page-query)
+- Gatsby Node APIs (https://www.gatsbyjs.com/docs/node-apis/)
+  - createPages
+- Gatsby Actions (https://www.gatsbyjs.com/docs/actions/)
 - OOTG Gatsby Component: StaticQuery
 - OOTB Gatsby Component: useStaticQuery
 - OOTB Gatsby Component: graphql
 - Gatsby Source Plugins
 - OOTB Gatsby Source Plugin: gatsby-source-filesystem
+- OOTB Gatsby Source Plugin: gatsby-source-contentful
 - Gatsby Transformer Plugins
 - OOTB Gatsby Transformer Plugin: gatsby-transformer-remark
 - OOTB Gatsby Transformer Plugin: gatsby-transformer-sharp
 - OOTB Gatsby Transformer Plugin: gatsby-transformer-yaml
 - OOTB Gatsby Transformer Plugin: gatsby-transformer-json
 - OOTB Gatsby Transformer Plugin: gatsby-transformer-csv
+- OOTB Gatsby Plugin: gatsby-remark-images
 - Slugs
+- Page Query (https://www.gatsbyjs.com/docs/recipes/querying-data/#querying-data-with-a-page-query)
+- Environment Variables (https://www.gatsbyjs.com/docs/environment-variables/)
 
 ## Learning Resources
 

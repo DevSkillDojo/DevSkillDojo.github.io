@@ -1,16 +1,15 @@
-# Bootstrap
+# Sharp
 
 ## Identification:
-Short name: Bootstrap
-Fully Qualified Name: TODO
-Perspective: TODO
+Short name: Sharp
+Fully Qualified Name: Development : JavaScript Development : JS Ecosystem : Sharp
+Perspective: Hard Skills (Technical)
 
 ## Introduction
-Bootstrap is styling framework for web development. It is defined as a powerful toolkit - a collection of HTML, CSS, and JavaScript tools for creating and building web pages and web applications.
+High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images.
 
 ## General References
-- Wikipedia: TODO
-- Official Site: https://getbootstrap.com/
+- Official Site: https://sharp.pixelplumbing.com/
 
 ## Available certifications
  - TODO
@@ -96,20 +95,3 @@ In many cases, formal assessments exists that test proficiency in this skill. If
 - TODO
 
 
-
-
-## Concepts
-
- - 12 Column Layout
- - Container
- - Row
- - Col
- - Display
- - Button
- - Lead
- - Card
- - Navbar
- - Carousel
- - Jumbutron
-
-## References

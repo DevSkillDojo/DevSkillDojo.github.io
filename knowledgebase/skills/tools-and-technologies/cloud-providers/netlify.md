@@ -55,6 +55,7 @@ Some skills represent a large body of knowledge and is broken down into sub-skil
 A list of concepts to be mastered. Often the number of concepts that have been mastered is a good indicator of proficiency level
 
 - TODO
+- Netlify Identity Widget
 
 ## Learning Resources
 
