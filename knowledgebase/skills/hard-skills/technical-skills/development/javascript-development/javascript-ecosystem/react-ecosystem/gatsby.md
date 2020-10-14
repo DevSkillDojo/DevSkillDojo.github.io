@@ -52,6 +52,7 @@ To become proficient in Gatsby, you will also require proficiency in the followi
  - [[markdown]]
  - [[react-helmet]]
  - [[react]] / PropTypes
+ - [[react]] / Hydration
 
 ### Complementary skills
 Like most skills, Gatsby is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using Gatsby in a real-world setting.

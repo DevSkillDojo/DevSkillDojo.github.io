@@ -1,16 +1,17 @@
-# React
+# AWS ElasticSearch Service
 
 ## Identification:
-Short name: React
-Fully Qualified Name: Development : JavaScript Development : JS Ecosystem : React
-Perspective: Hard Skills (Technical)
+Short name: TODO
+Fully Qualified Name: TODO
+Perspective: TODO
 
 ## Introduction
-React (also known as React.js or ReactJS) is an open-source, front end, JavaScript library for building user interfaces or UI components. 
+Add a very short introduction to the skill here. Typically pulled from Wikipedia or from the official site where appropriate
 
 ## General References
-- Wikipedia: https://en.wikipedia.org/wiki/React_(web_framework)
-- Official Site: https://reactjs.org/
+- Wikipedia: TODO
+- Official Site: TODO
+- Industry Bodies: TODO
 
 ## Available certifications
  - TODO
@@ -27,34 +28,19 @@ Before learning this skill, you should have at least some level of proficiency i
 dependent skills and they are broken into weak and strong dependencies.
 
 ### Hard Prerequisites
-Before you begin learning React, it is essential that you already have the following skills. For each of the prerequisites, a required proficiency level is defined
+Before you begin learning X, it is essential that you already have the following skills. For each of the prerequisites, a required proficiency level is defined
 
 - TODO
-- [[html]]
-- [[css]]
-- [[javascript]]
-- [[nodejs]]
-- [[npm]]
 
 ### Soft Prerequisites
-To become proficient in React, you will also require proficiency in the following skills. However, you can learn these in parallel (often it is the best way to go)
+To become proficient in X, you will also require proficiency in the following skills. However, you can learn these in parallel (often it is the best way to go)
 
  - TODO
- - [[webpack]]
- - [[babel]]
- - [[create-react-app]]
- - functional javascript
- - HTML DOM
 
 ### Complementary skills
-Like most skills, React is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using React in a real-world setting. This is especially important when architecting a solution.
+Like most skills, X is not used in isolation, but with other skills in your toolbox. If you build proficiency in these complementary skills, you are likely to be more successful at using X in a real-world setting.
 
 - TODO
-- [[redux]]
-- [[react-router]]
-- [[formik]]
-- [[axios]]
-- Moment library
 
 ### Alternative skills
 There are many ways to skin a cat (or so I've heard). These alternative skills will allow you to achieve the same outcomes as with X. To become a true master at X, it would be wise to understand the alternatives as well.
@@ -70,28 +56,6 @@ Some skills represent a large body of knowledge and is broken down into sub-skil
 A list of concepts to be mastered. Often the number of concepts that have been mastered is a good indicator of proficiency level
 
 - TODO
-- Declarative Component Model
-- JSX
-- Rendering Elements
-- Functional Components (https://alligator.io/react/functional-components/)
-- Class Components (https://reactjs.org/docs/react-component.html)
-  - Component Constructors (https://alligator.io/react/constructors-with-react-components/)
-  - Method binding
-  - Class Components local state
-- Export and Import Component Class
-- Export and Import Component Instance
-- Rendering Components
-- JSX Variables
-- Props
-- Link Form fields to local state
-- Redirect (using this.props.history.push())
-- Component Lifecycle
-- React Fragments
-- Higher Order Components (HOC)
-- Hooks
-- PropTypes (https://reactjs.org/docs/typechecking-with-proptypes.html)
-- Render Props (https://reactjs.org/docs/render-props.html)
-- Hydration
 
 ## Learning Resources
 
@@ -115,6 +79,8 @@ The best learning content for X is likely to be found from the following content
 
 ### All Learning Resources
 
+- https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-gsg.html
+
 | Source | Title | Resource Type | Applicable level | Rating | Other skills included |
 | -------| ----- | ------------- |:----------------:|:------:| --------------------- |
 | TODO   | TODO  | TODO          | TODO             | TODO   | TODO                  |
@@ -133,13 +99,3 @@ In many cases, formal assessments exists that test proficiency in this skill. If
 - TODO
 
 
-
-
-- https://egghead.io/courses/building-react-applications-with-idiomatic-redux
-- https://egghead.io/courses/getting-started-with-redux
-- https://www.youtube.com/watch?v=-ZrYlsEBLmo
-- https://www.youtube.com/watch?v=4QwWY9Fg4p4
-- https://www.serverless.com/blog/category/guides-and-tutorials/
-- https://www.serverless.com/blog/official-guide-aws-http-apis/
-- https://fullstackopen.com/en/
-- https://www.robinwieruch.de/react-hooks-fetch-data
