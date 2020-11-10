@@ -1,7 +1,7 @@
 # AWS ElasticSearch Service
 
 ## Identification:
-Short name: TODO
+Short name: AWS ES
 Fully Qualified Name: TODO
 Perspective: TODO
 
